@@ -4,7 +4,7 @@
     <head>
         <link rel="stylesheet" href="table.css"/>
         <body>  
-            <h1> Mohamed Abdirahmanb Osman </h1>
+            <h1> Abdalla Isse Omar </h1>
             <h2> ID: 0075</h2>
             <table border="25">
                 <tr>
