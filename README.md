@@ -24,8 +24,8 @@
             
                 <tr>
                     <td> MS- WORD </td>
-                    <td> LAMA HAYO
-                        <td> Z
+                    <td> 20
+                        <td> F
                     </td>
                     <td> COMPUTER
                     </td>
