@@ -16,8 +16,8 @@
                 
                     <td> WINDOW 10</td>
                    
-                    <td> 5
-                        <td> F
+                    <td> 70
+                        <td> C
                         <td> COMPUTER</td>
                     </td>
            
